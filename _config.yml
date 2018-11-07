@@ -3,8 +3,8 @@ title: BDDBL
 subtitle: Denotes Dummy BDD Library
 email: akiritsu@outlook.com
 description: BDDBL is a C Library with advanced variable reordering methods, breadth-first manipulation algorithm and parallel operators.
-baseurl: "/bddbl-site" # the subpath of your site, e.g. /blog
-url: "http://www.nekiri.com" # the base hostname & protocol for your site
+baseurl: # the subpath of your site, e.g. /blog
+url: "http://bddbl.com" # the base hostname & protocol for your site
 author: 秋月霧時
 street_address:
 city:
