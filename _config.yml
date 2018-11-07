@@ -1,0 +1,36 @@
+# site settings
+title: BDDBL
+subtitle: Denotes Dummy BDD Library
+email: akiritsu@outlook.com
+description: BDDBL is a C Library with advanced variable reordering methods, breadth-first manipulation algorithm and parallel operators.
+baseurl: "/bddbl-site" # the subpath of your site, e.g. /blog
+url: "http://www.nekiri.com" # the base hostname & protocol for your site
+author: 秋月霧時
+street_address:
+city:
+state: Silvermoon City
+zip_code:
+country: Azeroth
+phone: (233) 233-233233
+
+# homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 4
+
+# social settings
+500px_url:
+facebook_url:
+github_url:
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url:
+pinterest_url:
+slack_url:
+twitter_url:
+
+# build settings
+markdown: kramdown
+
+sass:
+  style: compressed
